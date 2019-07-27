@@ -6,3 +6,7 @@ last_name = 'sweetland'
 full_name = first_name.title() + ' ' + last_name.title()
 
 print full_name
+
+quote = "Paul Burgess once said, 'Pizza is like sex, even if it is bad its still pretty good'"
+
+print  quote
