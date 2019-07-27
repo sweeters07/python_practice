@@ -46,8 +46,11 @@ print(3*0.9999)
 print(4/2)
 print(12/5.7)
 
+#The answer to the below operation is 13
 print 12+1
 
 addition_statement = "The value of 12 plus 1 is 13"
 
 print addition_statement
+
+import this
